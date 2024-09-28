@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello, I'm Prerna Kothari
+[Connect with me on LinkedIn](https://www.linkedin.com/in/prekothari/)
 
-<!--
-**PKlegalprojects/PKlegalprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Brief Introduction]
 
-Here are some ideas to get you started:
+# Objective
+[Provide Objective]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+[Provide skill and associated project. Make sure to hyperlink the project]
+|Skill         |        Associated Project|
+
+# Projects
+# Tools
+# Certifications
